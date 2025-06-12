@@ -1,0 +1,26 @@
+[
+{
+  "directory": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/parcialito.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\parcialito.dir\\src\\cancion.cpp.obj -c \"G:\\MEMORIA USB\\Estructura de datos\\2025-1\\ParcialListas\\src\\cancion.cpp\"",
+  "file": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/src/cancion.cpp",
+  "output": "CMakeFiles/parcialito.dir/src/cancion.cpp.obj"
+},
+{
+  "directory": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/parcialito.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\parcialito.dir\\src\\lista.cpp.obj -c \"G:\\MEMORIA USB\\Estructura de datos\\2025-1\\ParcialListas\\src\\lista.cpp\"",
+  "file": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/src/lista.cpp",
+  "output": "CMakeFiles/parcialito.dir/src/lista.cpp.obj"
+},
+{
+  "directory": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/parcialito.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\parcialito.dir\\src\\main.cpp.obj -c \"G:\\MEMORIA USB\\Estructura de datos\\2025-1\\ParcialListas\\src\\main.cpp\"",
+  "file": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/src/main.cpp",
+  "output": "CMakeFiles/parcialito.dir/src/main.cpp.obj"
+},
+{
+  "directory": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/parcialito.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\parcialito.dir\\src\\nodo.cpp.obj -c \"G:\\MEMORIA USB\\Estructura de datos\\2025-1\\ParcialListas\\src\\nodo.cpp\"",
+  "file": "G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/src/nodo.cpp",
+  "output": "CMakeFiles/parcialito.dir/src/nodo.cpp.obj"
+}
+]

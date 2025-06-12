@@ -1,0 +1,3 @@
+G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build/CMakeFiles/parcialito.dir
+G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build/CMakeFiles/edit_cache.dir
+G:/MEMORIA USB/Estructura de datos/2025-1/ParcialListas/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mi_tiendita.dir/src/lista.cpp.o CMakeFiles/mi_tiendita.dir/src/main.cpp.o CMakeFiles/mi_tiendita.dir/src/nodo.cpp.o -o mi_tiendita 
